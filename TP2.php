@@ -13,6 +13,7 @@
   <h1>Trabajo Practico BackEnd N 2</h1>
   
     
+    <h5>Ejercicio 1 </h5>
     <?php
      $n = 29;
      if ($n > 0) {
@@ -24,7 +25,7 @@
     <br>
     <hr>
 
-    
+    <h5>Ejercicio 2 </h5>
     <?php
      $n = 30;
       if ($n > 1 & $n < 10) {
@@ -37,7 +38,7 @@
     <br>
     <hr>
 
-
+    <h5>Ejercicio 3 </h5>
     <?php  $n = 31;
       if($n > 10){
         echo "El numero es mayor a 10";
@@ -49,7 +50,8 @@
     ?> 
     <br>
     <hr>
-
+    
+    <h5>Ejercicio 4 </h5>
     <?php
     $numero1 = 28;
 
